@@ -31,4 +31,4 @@ obj.p2method();
 obj.parentmethod();
 
     }
- }class multiple extends pi ,po{
+ }
